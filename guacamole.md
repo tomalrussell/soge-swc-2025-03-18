@@ -6,5 +6,3 @@
 - salt
 
 ## Instructions
-
-1. Do something
