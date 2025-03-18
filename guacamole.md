@@ -3,7 +3,9 @@
 ## Ingredients
 - avocado
 - lime
+- salt
+- pepper
 
 ## Instructions
 
-1. ..
+1. Smash avocados
