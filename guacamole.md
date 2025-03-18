@@ -1,12 +1,8 @@
 # Guacamole
 
-This is a paragraph.
-
-This is a list:
-- one
-- item two
-- something else
-
 ## Ingredients
+- avocado
+- lemon
+- salt
 
 ## Instructions
